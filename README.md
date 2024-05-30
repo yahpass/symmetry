@@ -1,2 +1,2 @@
 # Symmetry
-Symmetry WordPress theme.
+Create your dream website easily with Symmetry theme.
