@@ -1,2 +1,2 @@
-# Symmetry
-Create your dream website easily with Symmetry theme.
+# Introducing Symmetry – A Modern, Minimal, and Flexible WordPress Block Editor Theme
+Crafted for contemporary projects, Symmetry offers a sleek, minimalist design paired with powerful customization options. Leveraging the full potential of the WordPress block editor, our theme ensures a seamless and intuitive building experience. Perfect for creating clean, responsive, and visually stunning websites, Symmetry empowers you to bring your vision to life with ease. Enjoy extensive block patterns, global styles, and full-site editing capabilities, all designed to provide maximum flexibility and creativity.
