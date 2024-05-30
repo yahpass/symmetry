@@ -1,1 +1,2 @@
-# symmetry
+# Symmetry
+Symmetry WordPress theme.
